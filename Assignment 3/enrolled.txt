@@ -1,0 +1,30 @@
+
+[0: 129051 ART Paul Johnston, 183286 ENG Marina Alfred
+3:  149052 ART Dana Asher,  165568 ENG Pearl Morris
+4:  124592 ENG Jeanne Desjardins,  168986 ENG Blanche Lafayette
+6:  179151 SCI Emilie Hamilton
+9:  181260 SCI Mohsen Fahem
+10: 133378 SCI Perez Garcia, 153376 EDU Fahed Ahmed
+12: 132529 ENG Luc Lamaison, 166296 SCI Parker Sun
+13: 153478 SCI Rita Kader, 158759 SCI Nadia Hyde
+14: 176681 ART Aimee Sauver, 183155 SCI Mona Maurice, 183476 EDU Jonathan Beck, 186296 SCI Jason Coach
+15: 144832 EDU Ervin Dahms, 163179 SCI Erika O'Brian
+16: 138998 BUS Daniel Smith, 187987 ART Samuel Nathaneal
+18: 129954 BUS Rhonda Skies, 149754 BUS Mary Zwicker, 177829 ENG Benjamin Schneider
+19: 176114 SCI Karla Lee
+22: 185792 BUS Maha Bushara
+25: 176812 BUS John Deacon
+27: 146053 SCI Izad Ali
+28: 134566 ENG Maria Lopez
+29: 131844 SCI Helena Samir
+32: 144456 SCI Luis Rodriguez, 152588 ENG Julie Morrison, 161841 SCI Henry Dean, 163368 SCI Philip Zekry
+33: 132258 SCI Huang Huawey
+34: 181844 ENG Antoine Ledophin
+35: 136077 SCI Sameh Khalif
+36: 174573 ENG Michael Peacock
+37: 144922 SCI Iman Hussain
+38: 173657 ENG Mariam Hussain, 185369 SCI Lucas Rodriguez
+46: 173812 ART Nevine Salib
+47: 179834 SCI Maddison River
+48: 126828 ENG Felicia Paul, 157599 BUS Moira Kylo, 174930 SCI Neda Moheir
+49: 163286 ENG Joe Li]
